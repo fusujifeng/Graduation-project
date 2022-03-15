@@ -18,7 +18,7 @@ export default {
 
 }
 
-// 定义一个名为 button-counter 的新组件
+// 定义一个名为 button-counter 的新组件。
 
 </script>
 
